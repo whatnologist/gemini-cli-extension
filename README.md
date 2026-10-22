@@ -36,3 +36,7 @@ Publishing, sending, scheduling, deleting, and ad spend always show a preview fi
 - Privacy policy: https://getshouting.com/legal/privacy-policy.html
 - Terms of use: https://www.getshouting.com/legal/terms-of-use.html
 - Support: support@getshouting.app
+
+## Maintainers
+
+Canonical source lives in the SHOUTapp app repo under `integrations/gemini-cli-extension/`. After changing listing URLs or this README, copy the four files here and cut a new GitHub Release — see [`SYNC.md`](SYNC.md).
