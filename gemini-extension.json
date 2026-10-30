@@ -1,20 +1,11 @@
 {
   "name": "get-shouting",
-  "version": "1.0.0",
-  "description": "Plan marketing campaigns, schedule social posts, send email newsletters, and read marketing analytics in Get Shouting.",
+  "version": "1.2.0",
+  "description": "Get Shouting MCP: campaigns, social, email, SMS, CRM, paid ads, and analytics (49 tools) at www.getshouting.app/api/mcp.",
   "contextFileName": "GEMINI.md",
   "mcpServers": {
-    "get-shouting-campaigns": {
-      "httpUrl": "https://www.getshouting.app/api/mcp/campaigns"
-    },
-    "get-shouting-social": {
-      "httpUrl": "https://www.getshouting.app/api/mcp/social"
-    },
-    "get-shouting-email": {
-      "httpUrl": "https://www.getshouting.app/api/mcp/email"
-    },
-    "get-shouting-analytics": {
-      "httpUrl": "https://www.getshouting.app/api/mcp/analytics"
+    "get-shouting": {
+      "httpUrl": "https://www.getshouting.app/api/mcp"
     }
   }
 }

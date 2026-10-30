@@ -12,14 +12,11 @@ Start `gemini`. The first time a Get Shouting tool runs, a browser window opens:
 
 ## What's included
 
-Four remote MCP servers, one per job. Disable the ones you don't need with `/mcp` or in your Gemini CLI settings.
+One remote MCP server covering campaigns, social posts and paid social ads, email, SMS, and analytics.
 
 | Server | URL |
 |---|---|
-| Campaigns | `https://www.getshouting.app/api/mcp/campaigns` |
-| Social | `https://www.getshouting.app/api/mcp/social` |
-| Email | `https://www.getshouting.app/api/mcp/email` |
-| Analytics | `https://www.getshouting.app/api/mcp/analytics` |
+| Get Shouting | `https://www.getshouting.app/api/mcp` |
 
 ## Requirements
 
@@ -35,8 +32,8 @@ Publishing, sending, scheduling, deleting, and ad spend always show a preview fi
 - Help: https://www.getshouting.app/help/ai-assistants
 - Privacy policy: https://getshouting.com/legal/privacy-policy.html
 - Terms of use: https://www.getshouting.com/legal/terms-of-use.html
-- Support: support@getshouting.app
+- Support: support@getshouting.com
 
 ## Maintainers
 
-Canonical source lives in the SHOUTapp app repo under `integrations/gemini-cli-extension/`. After changing listing URLs or this README, copy the four files here and cut a new GitHub Release — see [`SYNC.md`](SYNC.md).
+Canonical source lives in the SHOUTapp app repo under `integrations/gemini-cli-extension/`. After changing listing URLs or this README, copy the files here and cut a new GitHub Release — see [`SYNC.md`](SYNC.md).
